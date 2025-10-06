@@ -1,0 +1,7 @@
+{
+  "component" : "elasticsearch-token-count-query",
+  "locations" : [ {
+    "module" : "elasticsearch-token-count-query",
+    "representative_class" : "org/elasticsearch/query/tokencount/TokenCountQueryBuilder.class"
+  } ]
+}
